@@ -1,0 +1,184 @@
+{
+    "pokemons":[
+      {
+        "id": 1,
+        "name": "bulbasaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "Height": 2.04,
+        "weight": 15.2,
+        "category": "Seed",
+        "info": "Бульбазавр — маленький четвероногий покемон голубовато-зелёного цвета с темно-зелёными пятнами на теле. "
+      },
+      {
+        "id": 2,
+        "name": "ivysaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "Height": 3.03,
+        "weight": 28.7,
+        "category": "Seed",
+        "info":"Ивизавр — это единственная вторая форма покемона травяного/ядовитого типа, которому для дальнейшей эволюции не нужен камень эволюции."
+      },
+      {
+        "id": 3,
+        "name": "venusaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "Height": 6.07,
+        "weight": 220.5,
+        "category": "Seed",
+        "info": "Как Мега Венузавр, цветок на его спине становится больше и распускаются два меньших розовых цветка, один на лбу и один сзади. "
+      },
+      {
+        "id": 4,
+        "name": "charmander",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "Height": 2.0,
+        "weight": 18.7,
+        "category": "Lizard",
+        "info": "Чармандер и его эволюции — единственные покемоны, для которых пламя является частью тела, которое невозможно потушить, не причинив вреда покемону. "
+      },
+      {
+        "id": 5,
+        "name": "charmeleon",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "Height": 3.07,
+        "weight": 41.9,
+        "category": "Lizard",
+        "info": "Чармелеон — двуногое пресмыкающееся. У него тёмно-красная чешуя, намного темнее, чем у чармандера."
+      },
+      {
+        "id": 6,
+        "name": "charizard",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "Height": 5.07,
+        "weight": 199.5,
+        "category": "Lizard",
+        "info": "Чаризард значительно отличается от своих предэволюций. У него появились крылья, благодаря которым он может свободно летать."
+      },
+      {
+        "id": 7,
+        "name": "squirtle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "Height": 1.08,
+        "weight": 19.8,
+        "category": "Tiny Turtle",
+        "info": "Сквиртл — это небольшая черепашка с кожей голубого цвета. У него круглый коричневый панцирь с жёлтым брюшком"
+      },
+      {
+        "id": 8,
+        "name": "wartortle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "Height": 3.03,
+        "weight": 49.6,
+        "category": "Turtle",
+        "info": "Вартортл — это черепашка цвета индиго, с большими пушистыми ушами и хвостом. Он ходит на двух ножках, имеет панцирь коричневого цвета"
+      },
+      {
+        "id": 9,
+        "name": "blastoise",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "Height": 5.03,
+        "weight": 188.5,
+        "category": "Shellfish",
+        "info": "Бластойз — это большая, синяя черепаха, ходящая на двух ногах. У него крепкий панцирь и две мощные водяные пушки, сделанными из материала, похожего на сталь, располагаются они на верхней части панциря с разных сторон."
+      },
+      {
+        "id": 10,
+        "name": "caterpie",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "Height": 1.0,
+        "weight": 6.4,
+        "category": "Worm",
+        "info": "Катерпи напоминает зеленую гусеницу с желтыми кольцевыми маркировками вниз стороны её тела."
+      },
+      {
+        "id": 11,
+        "name": "metapod",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "Height": 2.04,
+        "weight": 21.8,
+        "category": "Cocoon",
+        "info": "Метапод — покемон-кокон зеленого цвета. То, что мы видим — это лишь оболочка, защита для очень уязвимого тела покемона в данный этап развития."
+      },
+      {
+        "id": 12,
+        "name": "butterfree",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "Height": 3.07,
+        "weight": 70.5,
+        "category": "Butterfly",
+        "info": "Баттерфри — покемон-бабочка фиолетового цвета. У баттерфри большие, роскошные крылья белого цвета с чёрными краями."
+      },
+      {
+        "id": 13,
+        "name": "weedle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "Height": 1.0,
+        "weight": 7.1,
+        "category": "Hairy Bug",
+        "info": "Видл похож на червяка коричневого цвета. На лбу и на конце хвоста у него по маленькому жалу, в 5 см. "
+      },
+      {
+        "id": 14,
+        "name": "kakuna",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "Height": 2.0,
+        "weight": 22.0,
+        "category": "Cocoon",
+        "info": "Какуна — жёлтый покемон-кокон. У него нет ни рук, ни ног, лишь пара глаз выдаёт в Какуне живое существо. Какуна — промежуточный этап эволюции Видла в Бидрилла."
+      },
+      {
+        "id": 15,
+        "name": "beedrill",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "Height": 3.03,
+        "weight": 65.0,
+        "category": "Poison Bee",
+        "info": "Бидрилл — покемон, который в основном напоминает двуногую желтую осу; однако у него только четыре ноги вместо шести и нет пигментных ямок."
+      },
+      {
+        "id": 16,
+        "name": "pidgey",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+        "Height": 1.0,
+        "weight": 4.0,
+        "category": "Tiny Bird",
+        "info": "Пиджи — маленький, немного полноватый птичий покемон. Он в основном коричневый с кремовым лицом, нижней стороной и маховыми перьями."
+      },
+      {
+        "id": 17,
+        "name": "Pidgeotto",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+        "Height": 3.07,
+        "weight": 66.1,
+        "category": "Bird",
+        "info": "Пиджеотто — крупный, хищный покемон-птица. Хотя основной цвет этого покемона коричневый как и у пиджи, оперение его гораздо сложнее."
+      },
+      {
+      "id": 18,
+      "name": "Pidgeot",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+      "Height": 4.11,
+      "weight": 87.1,
+      "category": "Bird",
+      "info": "Пиджеот - Покемон-птица с большими крыльями, острыми когтями и коротким крючковатым клювом. Его глянцевое оперение в основном коричневого цвета с брюхом и перьями кремового цвета."
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+      "Height": 1.0,
+      "weight": 7.7,
+      "category": "Mouse",
+      "info": "Раттата — это маленький четвероногий покемон-грызун. У него пурпурный мех, кремовая морда, лапы и подбрюшье."
+    },
+    {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "Height": 2.04,
+      "weight": 40.8,
+      "category": "Mouse",
+      "info": "Ратикэйт — покемон-крыса. Шерсть у него в основном коричневого цвета, лишь чуть светлее она на брюхе."
+    }
+  ]
+}
